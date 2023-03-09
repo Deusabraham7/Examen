@@ -14,3 +14,9 @@ i.	Pull
 j.	Descarga y actualiza un contenido
 k.	Fetch
 l.	Descarga 
+
+a.	¿Para qué sirve el comando cd? es para entrar a un directorio o carpeta
+b.	¿Para qué sirve el comando dir? para ver los directorios
+c.	¿Para qué sirve el comando mkdir? para crear un directorio
+d.	¿Para qué sirve el comando cd ..?para salir de un directorio
+
