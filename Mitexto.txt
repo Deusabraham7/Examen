@@ -1,0 +1,16 @@
+1.	¿Qué es Git? Es un controlador de versiones para subir , modificar archivos y subirlos a una interfaz o github
+2.	¿Qué es GitHub?
+3.	Es una interfaz donde podemos crear archivos o subir archivos
+4.	Describe la funcionalidad de los siguientes comandos de GIT Bash:
+a.	Clone:Es para clonar archivos o repositorios
+b.	Status: para ver el estado de los archivos
+c.	Diff : es para ver los cambios echos en el archivo
+d.	Add: es para añadirlo a un paquete de datos de subida
+e.	Commit: es para agregar un comentario a la subida de datos
+f.	Push: es para subir los archivos 
+g.	Merge
+h.	Toma lineas independientes de desarrollo actualizando y agregando despues para no dañar el archivo
+i.	Pull
+j.	Descarga y actualiza un contenido
+k.	Fetch
+l.	Descarga 
